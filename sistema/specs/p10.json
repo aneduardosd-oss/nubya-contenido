@@ -1,0 +1,216 @@
+{
+ "slug": "p10-lo-caro-no-es-la-consulta",
+ "handle": "@nutritionbyannie",
+ "cards": [
+  {
+   "type": "hook",
+   "title": "No es cara la consulta…",
+   "whisper": "lo caro son los años repitiendo dietas que [[u]]no fueron hechas para tu cuerpo.[[/u]]",
+   "swipe": "desliza →",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "cinta-metrica",
+     80,
+     100,
+     220,
+     -8
+    ],
+    [
+     "bolsa-super",
+     800,
+     985,
+     200,
+     8
+    ]
+   ]
+  },
+  {
+   "type": "split",
+   "label": "Lo que ya pagaste",
+   "top": "Pagaste la app de ayuno…",
+   "note": "porque nadie te dijo…",
+   "bottom": "que tu horario no la aguantaba.",
+   "size": 80,
+   "panel": "salvia",
+   "washi": "",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "celular",
+     790,
+     110,
+     150,
+     8
+    ],
+    [
+     "reloj",
+     90,
+     1000,
+     170,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "split",
+   "label": "Lo que ya pagaste",
+   "top": "Compraste las malteadas…",
+   "note": "porque nadie te dijo…",
+   "bottom": "qué comer cuando se acabaran.",
+   "size": 80,
+   "panel": "",
+   "washi": "mint",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "smoothie",
+     790,
+     105,
+     180,
+     8
+    ],
+    [
+     "tache",
+     800,
+     985,
+     150,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "Entonces la verdad es simple: no estás fallando tú, <span class=\"mark\">está fallando el plan.</span>",
+   "size": 72,
+   "whisper": "Y eso tiene arreglo.",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "globo-ojo",
+     790,
+     95,
+     190,
+     8
+    ],
+    [
+     "hojita",
+     90,
+     1000,
+     180,
+     -12
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "Por eso mi consulta empieza por medirte y revisarte.",
+   "size": 74,
+   "whisper": "Y sales con tu plan del mes, no con una hoja de dieta.",
+   "paren": "Consulta $1,000 · medidas + [[u]]plan mensual[[/u]] · CDMX y online",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "estetoscopio",
+     80,
+     100,
+     190,
+     -8
+    ],
+    [
+     "calendario",
+     800,
+     985,
+     180,
+     8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "Cuéntame",
+   "title": "¿Cuántas dietas crees que llevas pagadas que no eran para ti?",
+   "whisper": "Aquí [[u]]nadie juzga.[[/u]]",
+   "inner_style": "justify-content:flex-start;padding-top:200px;padding-right:120px",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "globo",
+     90,
+     800,
+     160,
+     -8
+    ],
+    [
+     "corazon",
+     310,
+     790,
+     140,
+     6
+    ],
+    [
+     "sandia",
+     790,
+     95,
+     190,
+     -8
+    ]
+   ],
+   "size": 74
+  }
+ ]
+}

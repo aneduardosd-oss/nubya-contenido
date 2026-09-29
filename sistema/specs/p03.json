@@ -1,0 +1,219 @@
+{
+ "slug": "p03-dias-ocupados",
+ "handle": "@nutritionbyannie",
+ "cards": [
+  {
+   "type": "hook",
+   "title": "Tu agenda está llena de todo lo que un día soñaste…",
+   "whisper": "[[u]]menos de tu comida.[[/u]]",
+   "swipe": "desliza →",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "calendario",
+     80,
+     100,
+     220,
+     -8
+    ],
+    [
+     "cafe",
+     800,
+     985,
+     200,
+     8
+    ]
+   ]
+  },
+  {
+   "type": "split",
+   "label": "Hoy te quejas",
+   "top": "“Ya ni desayuno, salgo corriendo a la oficina.”",
+   "note": "y hace unos años decías…",
+   "bottom": "¿Me dieron el trabajo?!",
+   "panel": "salvia",
+   "washi": "",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "cafe",
+     790,
+     105,
+     190,
+     8
+    ],
+    [
+     "estrella",
+     90,
+     1000,
+     160,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "split",
+   "label": "Hoy te quejas",
+   "top": "“Como lo que sea frente a la compu, entre junta y junta.”",
+   "note": "y hace unos años decías…",
+   "bottom": "¿Voy a trabajar desde casa?!",
+   "panel": "",
+   "washi": "mint",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "celular",
+     790,
+     115,
+     160,
+     10
+    ],
+    [
+     "tupper",
+     800,
+     985,
+     200,
+     -6
+    ]
+   ]
+  },
+  {
+   "type": "split",
+   "label": "Hoy te quejas",
+   "top": "“No me da la vida para el súper, todo lo pido por app.”",
+   "note": "y hace unos años decías…",
+   "bottom": "¿Tengo mi propio depa?!",
+   "panel": "salvia",
+   "washi": "",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "bolsa-super",
+     790,
+     105,
+     190,
+     8
+    ],
+    [
+     "destellos",
+     90,
+     1000,
+     170,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "split",
+   "label": "Hoy te quejas",
+   "top": "“Ceno a las 11, después de dormir a los niños.”",
+   "note": "y hace unos años decías…",
+   "bottom": "¿Vamos a tener hijos?!",
+   "panel": "",
+   "washi": "mint",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "luna-zzz",
+     790,
+     105,
+     190,
+     8
+    ],
+    [
+     "corazones-mini",
+     800,
+     985,
+     190,
+     -6
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "Cuéntame",
+   "title": "Lograste todo lo que soñabas. Ahora vamos a hacer que tu comida quepa en esa vida.",
+   "whisper": "¿Cuál de estas te tocó más? [[u]]Dímelo en comentarios.[[/u]]",
+   "inner_style": "justify-content:flex-start;padding-top:200px;padding-right:120px",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "globo",
+     90,
+     800,
+     160,
+     -8
+    ],
+    [
+     "plato",
+     310,
+     790,
+     160,
+     6
+    ],
+    [
+     "sandia",
+     790,
+     95,
+     190,
+     -8
+    ]
+   ],
+   "size": 72
+  }
+ ]
+}

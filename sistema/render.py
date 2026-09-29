@@ -8,7 +8,7 @@ from playwright.sync_api import sync_playwright
 
 import os
 ROOT = pathlib.Path(__file__).parent
-SK = pathlib.Path(os.environ.get('NUBYA_ASSETS', '/mnt/skills/plugins/nubya-brand-identity/assets'))
+SK = pathlib.Path(os.environ.get('NUBYA_ASSETS', str(ROOT.parent / 'assets')))
 FS = ROOT / 'node_modules/@fontsource'
 GF = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;600&display=block">'
 
@@ -71,12 +71,22 @@ ul.mk{list-style:none;display:flex;flex-direction:column;gap:26px}
 ul.mk li{font:500 50px Poppins;display:inline-block;align-self:flex-start;padding:2px 20px;transform:rotate(-1deg)}
 ul.mk li:nth-child(odd){background:linear-gradient(transparent 16%,#F1C6D9 16%,#F1C6D9 90%,transparent 90%)}
 ul.mk li:nth-child(even){background:linear-gradient(transparent 16%,#7AC9B5 16%,#7AC9B5 90%,transparent 90%)}
-.mark{padding:0 14px;background:linear-gradient(transparent 20%,#7AC9B5 20%,#7AC9B5 90%,transparent 90%)}
+.mark{-webkit-box-decoration-break:clone;box-decoration-break:clone;padding:0 14px;background:linear-gradient(transparent 20%,#7AC9B5 20%,#7AC9B5 90%,transparent 90%)}
 .mark.rosa{background:linear-gradient(transparent 20%,#F1C6D9 20%,#F1C6D9 90%,transparent 90%)}
 .foot{position:absolute;bottom:52px;left:64px;right:64px;display:flex;justify-content:space-between;font:400 25px Poppins;color:#6B675F;letter-spacing:.03em;z-index:4}
 .swipe{position:absolute;right:100px;bottom:120px;font:600 48px Caveat;color:#E2688C;z-index:4}
 .annie{position:absolute;right:-40px;bottom:0;width:560px;z-index:3}
 .logo{position:absolute;left:64px;bottom:40px;width:250px;mix-blend-mode:multiply;z-index:4}
+.now{background:#F3F0E9;border-radius:26px;padding:54px 60px 58px;position:relative}
+.now.salvia{background:#E9F0E7}
+.now p.q{font:400 46px/1.4 Poppins;max-width:760px;text-wrap:pretty}
+.then{margin-top:70px;padding-left:10px}
+.then .note{font:700 58px Caveat;color:#E2688C;transform:rotate(-2deg);transform-origin:left;margin-bottom:14px}
+.then h3{font-family:'Playfair Display';font-weight:600;font-size:88px;line-height:1.08;text-wrap:balance}
+ul.pl{list-style:none;display:flex;flex-direction:column;gap:30px}
+ul.pl li{font:500 46px/1.3 Poppins;display:flex;gap:26px;align-items:baseline}
+ul.pl li b{font:700 56px Caveat;color:#E2688C;flex:none;width:44px}
+ul.pl li:nth-child(even) b{color:#0B5D46}
 .cta .kicker{font:600 28px Poppins;letter-spacing:.2em;text-transform:uppercase;color:#0B5D46;margin-bottom:28px}
 '''
 
@@ -86,18 +96,25 @@ def card_html(c, i, n, handle):
     c={k:(ul(v) if isinstance(v,str) else v) for k,v in c.items()}
     k = c['type']; parts = [stain(*s) for s in c.get('stains', [])]
     parts += [doodle(*d) for d in c.get('doodles', [])]
+    sz = f' style="font-size:{c["size"]}px"' if c.get('size') else ''
+    opt = lambda key, cls: f'<p class="{cls}">{c[key]}</p>' if c.get(key) else ''
     if k == 'hook':
-        body = f'<h1>{c["title"]}</h1><p class="whisper">{c["whisper"]}</p>'
+        body = f'<h1{sz}>{c["title"]}</h1>' + opt('whisper','whisper') + opt('paren','paren')
     elif k == 'list':
-        items = ''.join(f'<li>{x}</li>' for x in c['items'])
-        body = (f'<h2>{c["title"]}</h2><p class="body">{c["body"]}</p>'
+        if c.get('bullet'):
+            items = ''.join(f'<li><b>{c["bullet"]}</b><span>{x}</span></li>' for x in c['items']); ul_cls = 'pl'
+        else:
+            items = ''.join(f'<li>{x}</li>' for x in c['items']); ul_cls = 'mk'
+        body = (f'<h2{sz}>{c["title"]}</h2>' + opt('body','body') +
                 f'<div class="panel {c.get("panel","")}"><span class="washi {c.get("washi","")}"></span>'
-                f'<p class="lbl">{c["label"]}</p><ul class="mk">{items}</ul></div>' + (f'<p class="paren">{c["paren"]}</p>' if c.get('paren') else ''))
+                + (f'<p class="lbl">{c["label"]}</p>' if c.get('label') else '') + f'<ul class="{ul_cls}">{items}</ul></div>' + opt('paren','paren'))
+    elif k == 'split':
+        body = (f'<div class="now {c.get("panel","")}"><span class="washi {c.get("washi","")}"></span><p class="lbl">{c["label"]}</p><p class="q">{c["top"]}</p></div>'
+                f'<div class="then"><p class="note">{c["note"]}</p><h3{sz}>{c["bottom"]}</h3></div>' + opt('paren','paren'))
     elif k == 'statement':
-        body = f'<h2>{c["title"]}</h2>' + (f'<p class="whisper">{c["whisper"]}</p>' if c.get('whisper') else '') \
-             + (f'<p class="paren">{c["paren"]}</p>' if c.get('paren') else '')
+        body = f'<h2{sz}>{c["title"]}</h2>' + opt('whisper','whisper') + opt('paren','paren')
     elif k == 'cta':
-        body = (f'<p class="kicker">{c["kicker"]}</p><h2>{c["title"]}</h2>'
+        body = (f'<p class="kicker">{c["kicker"]}</p><h2{sz}>{c["title"]}</h2>'
                 f'<p class="whisper">{c["whisper"]}</p>')
     foot = '' if k == 'cta' else f'<div class="foot"><span>{handle}</span><span>{i}/{n}</span></div>'
     extra = (f'<img class="logo" src="data:image/jpeg;base64,{LOGO}"><img class="annie" src="data:image/webp;base64,{ANNIE}">') if k == 'cta' else ''

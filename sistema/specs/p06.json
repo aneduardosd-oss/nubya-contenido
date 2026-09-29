@@ -1,0 +1,205 @@
+{
+ "slug": "p06-me-lo-gane",
+ "handle": "@nutritionbyannie",
+ "cards": [
+  {
+   "type": "hook",
+   "title": "Así es como tú conviertes tu “me lo gané” del viernes…",
+   "size": 88,
+   "whisper": "[[u]]en el lunes más difícil de la semana.[[/u]]",
+   "swipe": "desliza →",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "calendario",
+     80,
+     100,
+     210,
+     -8
+    ],
+    [
+     "estrella",
+     800,
+     985,
+     170,
+     8
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "Te portaste bien de lunes a&nbsp;jueves.",
+   "whisper": "Entonces el viernes te das permiso: pizza, pan dulce, “total, ya me lo gané”.",
+   "stains": [
+    [
+     "menta",
+     "tl"
+    ],
+    [
+     "rosa",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "cubiertos",
+     790,
+     95,
+     190,
+     8
+    ],
+    [
+     "corazon",
+     90,
+     1000,
+     160,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "El lunes amaneces inflamada, con más antojo que&nbsp;nunca…",
+   "size": 76,
+   "whisper": "sintiendo que empiezas desde cero. [[u]]Otra vez.[[/u]]",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "reloj",
+     790,
+     95,
+     190,
+     8
+    ],
+    [
+     "nube-pensamiento",
+     90,
+     1000,
+     190,
+     -6
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "El problema no es el sábado.",
+   "whisper": "Es un lunes a jueves tan estricto que necesitas escaparte de él.",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "globo-ojo",
+     80,
+     100,
+     190,
+     -8
+    ],
+    [
+     "espiral",
+     800,
+     985,
+     160,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "Entonces vamos a meter tus antojos dentro de la semana, <span class=\"mark\">planeados.</span>",
+   "size": 74,
+   "paren": "Comer pizza no está mal; lo que cansa es [[u]]sentir que te escapas.[[/u]]",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "calendario",
+     790,
+     95,
+     180,
+     8
+    ],
+    [
+     "check",
+     90,
+     1000,
+     140,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "Guárdalo",
+   "title": "Guárdalo para el viernes…",
+   "whisper": "antes de tu próximo “[[u]]me lo gané[[/u]]”.",
+   "inner_style": "justify-content:flex-start;padding-top:200px;padding-right:120px",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "banderin",
+     90,
+     800,
+     170,
+     -6
+    ],
+    [
+     "sandia-mordida",
+     320,
+     780,
+     170,
+     8
+    ],
+    [
+     "sandia",
+     790,
+     95,
+     190,
+     -8
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "slug": "p08-antes-de-la-cirugia",
+ "handle": "@nutritionbyannie",
+ "cards": [
+  {
+   "type": "hook",
+   "title": "Tienes 3 meses antes de tu cirugía bariátrica para llegar lista…",
+   "size": 84,
+   "whisper": "[[u]]o te la reprograman.[[/u]]",
+   "swipe": "desliza →",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "calendario",
+     80,
+     100,
+     210,
+     -8
+    ],
+    [
+     "estetoscopio",
+     800,
+     985,
+     200,
+     8
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Tu cirujano te pidió llegar en mejores condiciones. Y lo intentas sola:",
+   "size": 64,
+   "bullet": "→",
+   "panel": "",
+   "washi": "mint",
+   "items": [
+    "Dejas de cenar para “adelantar”",
+    "A las 11 pm terminas en el refri igual",
+    "Cada revisión te da más miedo"
+   ],
+   "stains": [
+    [
+     "menta",
+     "tl"
+    ],
+    [
+     "rosa",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "luna-zzz",
+     790,
+     100,
+     180,
+     8
+    ],
+    [
+     "reloj",
+     90,
+     1000,
+     170,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "“Si no puedo con esto antes de operarme…",
+   "whisper": "[[u]]¿cómo voy a poder después?”[[/u]]",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "nube-pensamiento",
+     790,
+     95,
+     210,
+     8
+    ],
+    [
+     "interrogacion",
+     90,
+     1000,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Entonces no hacemos una dieta de emergencia. Hacemos tu preparación:",
+   "size": 62,
+   "bullet": "✓",
+   "panel": "salvia",
+   "washi": "",
+   "items": [
+    "Horarios que aguanten tu trabajo",
+    "Proteína primero, como vas a comer después",
+    "Revisiones coordinadas con tu cirujano"
+   ],
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "portapapeles",
+     790,
+     100,
+     180,
+     6
+    ],
+    [
+     "huevo",
+     800,
+     985,
+     180,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "Para que llegues a tu fecha sabiendo comer como vas a comer <span class=\"mark\">el resto de tu vida.</span>",
+   "size": 70,
+   "whisper": "Así acompaño a cada paciente, antes y después de su cirugía.",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "corazon",
+     790,
+     95,
+     160,
+     8
+    ],
+    [
+     "cinta-metrica",
+     90,
+     1000,
+     190,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "Compártelo",
+   "title": "¿Conoces a alguien que ya tiene fecha de cirugía?",
+   "whisper": "Mándaselo, para que llegue preparada y [[u]]no a dieta de emergencia.[[/u]]",
+   "inner_style": "justify-content:flex-start;padding-top:200px;padding-right:120px",
+   "stains": [
+    [
+     "menta",
+     "tr"
+    ],
+    [
+     "rosa",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "celular",
+     90,
+     810,
+     140,
+     -10
+    ],
+    [
+     "corazones-mini",
+     300,
+     790,
+     150,
+     -6
+    ],
+    [
+     "sandia",
+     790,
+     95,
+     190,
+     -8
+    ]
+   ],
+   "size": 74
+  }
+ ]
+}

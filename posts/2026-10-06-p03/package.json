@@ -1,0 +1,29 @@
+{
+ "piece": 3,
+ "slug": "p03-dias-ocupados",
+ "title": "Días ocupados",
+ "pillar": "Atracción",
+ "arc": "D · Contraste pasado/presente",
+ "cta_type": "Comentar",
+ "publish_at_local": "2026-10-06T20:30:00-06:00",
+ "publish_at_utc": "2026-10-07T02:30:00Z",
+ "folder": "posts/2026-10-06-p03",
+ "status": "pending_approval",
+ "caption": "Tu agenda está llena de todo lo que un día soñaste… menos de tu comida.\n\nHoy te quejas de no desayunar porque sales corriendo a la oficina, de comer frente a la compu, de pedir todo por app, de cenar a las 11. Y hace unos años eso era exactamente lo que soñabas: el trabajo, el depa, los hijos.\n\nLograste la vida que querías. Ahora vamos a hacer que tu comida quepa en ella, sin que tengas que cambiar de vida para comer bien.\n\n¿Cuál de estas te tocó más? Cuéntame en comentarios 👇\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #nutricionclinica #nutricionpersonalizada #mamastrabajadoras #comerbien",
+ "alt_text": [
+  "Tarjeta con fondo de libreta y dibujos a mano. Texto: Tu agenda está llena de todo lo que un día soñaste… menos de tu comida.",
+  "Tarjeta con fondo de libreta y dibujos a mano. Texto: Hoy te quejas: “Ya ni desayuno, salgo corriendo a la oficina.” y hace unos años decías… ¿Me dieron el trabajo?!",
+  "Tarjeta con fondo de libreta y dibujos a mano. Texto: Hoy te quejas: “Como lo que sea frente a la compu, entre junta y junta.” y hace unos años decías… ¿Voy a trabajar desde casa?!",
+  "Tarjeta con fondo de libreta y dibujos a mano. Texto: Hoy te quejas: “No me da la vida para el súper, todo lo pido por app.” y hace unos años decías… ¿Tengo mi propio depa?!",
+  "Tarjeta con fondo de libreta y dibujos a mano. Texto: Hoy te quejas: “Ceno a las 11, después de dormir a los niños.” y hace unos años decías… ¿Vamos a tener hijos?!",
+  "Tarjeta de cierre con la ilustración de la nutrióloga Annie y el logo Anaeli Álvarez. Texto: Cuéntame. Lograste todo lo que soñabas. Ahora vamos a hacer que tu comida quepa en esa vida. ¿Cuál de estas te tocó más? Dímelo en comentarios."
+ ],
+ "image_urls": [
+  "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-01.jpg",
+  "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-02.jpg",
+  "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-03.jpg",
+  "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-04.jpg",
+  "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-05.jpg",
+  "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-06.jpg"
+ ]
+}
