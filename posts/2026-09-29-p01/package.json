@@ -1,0 +1,19 @@
+{
+  "piece": 1,
+  "slug": "p01-dieta-de-tu-amiga",
+  "title": "La dieta de tu amiga",
+  "pillar": "Atracción",
+  "arc": "E · Frase compartible (4 cards)",
+  "publish_at_local": "2026-09-29T13:30:00-06:00",
+  "publish_at_utc": "2026-09-29T19:30:00Z",
+  "status": "pending_approval",
+  "caption": "A tu amiga le funcionó el keto. A ti no.\n\nY no, no es falta de disciplina.\n\nEntonces, ¿qué pasó? Que la dieta fue la misma, pero el cuerpo no. Tu tiroides, tu insulina, tus horarios, hasta cómo duermes… todo cambia cómo responde tu cuerpo a lo que comes.\n\nEso no significa que el tuyo esté mal. Significa que necesita un plan hecho para él, no el que le funcionó a alguien más.\n\nMándaselo a esa amiga a la que sí le funcionó… o a la que tampoco 💌\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #nutricionclinica #resistenciaalainsulina #nutricionpersonalizada #dietasquenofuncionan",
+  "alt_text": [
+    "Tarjeta con fondo de libreta y un dibujo de aguacate. Texto: A tu amiga le funcionó el keto. A ti no. Y no es porque seas menos disciplinada.",
+    "Tarjeta con dibujo de lentes y un despertador. Texto: Entonces, ¿por qué a ella sí? Porque su cuerpo no trae lo mismo que el tuyo: otra tiroides, otra insulina, otros horarios. Y ninguna dieta de internet te revisó nada de eso.",
+    "Tarjeta con dibujo de un plato balanceado. Texto: La dieta fue la misma. El cuerpo, no. Y eso no significa que el tuyo esté mal. Solo necesita un plan hecho para él, no para tu amiga.",
+    "Tarjeta de cierre con la ilustración de la nutrióloga Annie haciendo un corazón con los dedos y el logo Anaeli Álvarez. Texto: Compártelo. Mándaselo a esa amiga a la que sí le funcionó el keto… o a la que tampoco."
+  ],
+  "first_60_min": "Responder todos los comentarios; si alguien comparte su caso, contestar con cariño y sin diagnosticar por comentario.",
+  "manual_extras": "Opcional desde la app: música suave y fijar el post si rinde bien (la API no permite ninguna de las dos)."
+}
