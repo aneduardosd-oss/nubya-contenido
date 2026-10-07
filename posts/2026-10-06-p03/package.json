@@ -8,7 +8,7 @@
  "publish_at_local": "2026-10-06T20:30:00-06:00",
  "publish_at_utc": "2026-10-07T02:30:00Z",
  "folder": "posts/2026-10-06-p03",
- "status": "pending_approval",
+ "status": "published",
  "caption": "Tu agenda está llena de todo lo que un día soñaste… menos de tu comida.\n\nHoy te quejas de no desayunar porque sales corriendo a la oficina, de comer frente a la compu, de pedir todo por app, de cenar a las 11. Y hace unos años eso era exactamente lo que soñabas: el trabajo, el depa, los hijos.\n\nLograste la vida que querías. Ahora vamos a hacer que tu comida quepa en ella, sin que tengas que cambiar de vida para comer bien.\n\n¿Cuál de estas te tocó más? Cuéntame en comentarios 👇\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #nutricionclinica #nutricionpersonalizada #mamastrabajadoras #comerbien",
  "alt_text": [
   "Tarjeta con fondo de libreta y dibujos a mano. Texto: Tu agenda está llena de todo lo que un día soñaste… menos de tu comida.",
@@ -25,5 +25,8 @@
   "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-04.jpg",
   "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-05.jpg",
   "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-06-p03/p03-dias-ocupados-06.jpg"
- ]
+ ],
+ "media_id": "18000956252808265",
+ "permalink": "https://www.instagram.com/p/DeLSpLfgHxU/",
+ "published_at_utc": "2026-10-07T02:31:13Z"
 }
