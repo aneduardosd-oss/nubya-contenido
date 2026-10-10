@@ -1,0 +1,18 @@
+{
+ "piece": "R02",
+ "slug": "r02-domingo-chef",
+ "title": "Domingo chef, jueves pizza",
+ "type": "REELS",
+ "pillar": "Atracción",
+ "arc": "D",
+ "cta_type": "Compartir",
+ "publish_at_local": "2026-10-14T14:00:00-06:00",
+ "publish_at_utc": "2026-10-14T20:00:00Z",
+ "folder": "posts/2026-10-14-r02",
+ "status": "approved",
+ "caption": "El domingo eres chef… y el jueves ya estás pidiendo pizza 🍕\n\nCinco tuppers iguales de pollo con brócoli. El martes ya no se te antoja, el miércoles se queda en la oficina y el jueves abres el refri y… otra vez no.\n\nNo estás haciendo nada mal: el problema era el menú. Cocina bases (pollo, arroz, verdura) y combínalas distinto cada día: un día tacos, otro un bowl, otro un caldito. Así el jueves todavía tienes ganas de comer lo que cocinaste.\n\nMándale este video a tu amiga la de los tuppers, para que este domingo cocinen diferente (y se pasen ideas entre las dos) 💚\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #mealprep #comidadelasemana #alimentacionsaludable #nutricionmexico",
+ "video_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-14-r02/r02-domingo-chef.mp4",
+ "cover_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-14-r02/r02-domingo-chef-cover.jpg",
+ "share_to_feed": true,
+ "notes": "Aprobado por el usuario el 10 oct 2026 (v2, motor v5). El usuario pidió no publicar en sábado: se movió a miércoles 14 oct 14:00 CDMX. Mismo flujo que R01."
+}

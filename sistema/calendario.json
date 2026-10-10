@@ -85,5 +85,12 @@
   "title": "El súper fit (Reel)",
   "at": "2026-10-12T13:30:00-06:00",
   "status": "approved"
+ },
+ {
+  "n": "R02",
+  "slug": "r02-domingo-chef",
+  "title": "Domingo chef, jueves pizza (Reel)",
+  "at": "2026-10-14T14:00:00-06:00",
+  "status": "approved"
  }
 ]
