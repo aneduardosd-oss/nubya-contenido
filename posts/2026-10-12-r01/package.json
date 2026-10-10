@@ -1,0 +1,18 @@
+{
+ "piece": "R01",
+ "slug": "r01-super-fit",
+ "title": "El súper fit",
+ "type": "REELS",
+ "pillar": "Educación",
+ "arc": "C · Denuncia",
+ "cta_type": "Guardar",
+ "publish_at_local": "2026-10-12T13:30:00-06:00",
+ "publish_at_utc": "2026-10-12T19:30:00Z",
+ "folder": "posts/2026-10-12-r01",
+ "status": "approved",
+ "caption": "¿Sabías que puedes estar pagando el doble por comer sano? 🛒\n\nLa barrita de proteína, el yogurt que dice \"sin azúcar\", el pan de semillas… si dice fit, tiene que ser bueno, ¿no? Llegas a casa, ves el ticket y a las cinco de la tarde ya tienes hambre otra vez.\n\nNo están prohibidos. Pero lo más sano del súper casi nunca trae etiqueta: nopales, jitomate, fruta, elote, huevo. Es más barato y te llena mucho más.\n\nGuarda este video y ábrelo antes de llenar el carrito en tu próxima vuelta al súper. Tu cartera y tu hambre te lo van a agradecer 💚\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #comersano #superdelasemana #alimentacionsaludable #nutricionmexico",
+ "video_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-12-r01/r01-super-fit.mp4",
+ "cover_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-12-r01/r01-super-fit-cover.jpg",
+ "share_to_feed": true,
+ "notes": "Aprobado por el usuario el 9 oct 2026. Publicar con INSTAGRAM_POST_IG_USER_MEDIA (media_type REELS, video_url, cover_url, caption, share_to_feed true) → INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH (max_wait_seconds 300) → INSTAGRAM_GET_IG_MEDIA para el permalink."
+}

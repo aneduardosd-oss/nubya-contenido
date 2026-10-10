@@ -42,3 +42,9 @@ Siempre aplican el cerebro NuByA, el Agente 4 de cumplimiento y el brandbook v1.
 - Sin "garantizado", "cura", "milagroso", "el mejor".
 - Sin fotos de cuerpos.
 - **Nunca presentar un caso inventado como paciente real.** Las piezas 4, 7 y 8 están escritas en segunda persona, como situaciones con las que la gente se identifica.
+
+
+## Reels
+- Carpeta `posts/AAAA-MM-DD-rNN/` con el MP4 (1080×1920, 30 fps, H.264 + AAC), la portada JPG y `package.json` (`video_url`, `cover_url`, `caption`).
+- Publicar: `INSTAGRAM_POST_IG_USER_MEDIA` con `media_type: REELS`, `video_url`, `cover_url`, `caption`, `share_to_feed: true` → `INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH` con `max_wait_seconds: 300` (el video tarda en procesar) → `INSTAGRAM_GET_IG_MEDIA` para el permalink. Luego status/media_id/permalink en el paquete y el calendario, commit, push y aviso al usuario.
+- La música va mezclada dentro del MP4; la API no permite agregar audio de la biblioteca de Instagram.
