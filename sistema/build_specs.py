@@ -122,7 +122,7 @@ Nutrición clínica · CDMX y online
 #nutriologacdmx #nutricionclinica #nutricionpersonalizada #dietasquenofuncionan #resistenciaalainsulina"""))
 
 # ---------- 5 · Mar 13 oct 13:30 · Atracción E · El detox más caro ----------
-P.append(dict(n=5, slug="p05-el-detox-mas-caro", title="El detox más caro", pillar="Atracción", arc="E · Frase compartible (4 cards)",
+P.append(dict(n=5, slug="p05-el-detox-mas-caro", title="El detox más caro", pillar="Atracción", arc="E · Frase compartible (6 cards)",
   at="2026-10-13T13:30:00-06:00", cta_type="Compartir",
   cards=[
     {"type":"hook","title":"El detox más caro es el que compras cada&nbsp;mes…","whisper":"[[u]]porque el anterior no funcionó.[[/u]]","swipe":"desliza →",
@@ -133,6 +133,12 @@ P.append(dict(n=5, slug="p05-el-detox-mas-caro", title="El detox más caro", pil
     {"type":"statement","title":"Es que ninguno empezó por <span class=\"mark\">entender tu cuerpo.</span>","size":78,
      "whisper":"Tu tiroides, tu insulina, cómo comes un martes real.",
      "stains":st('menta','tl','br'),"doodles":[d('estetoscopio',TR,200,8),d('plato',BL,180,-8)]},
+    {"type":"statement","title":"Y cada mes: un producto nuevo, la misma inflamación y un poquito menos de confianza en ti.","size":70,
+     "whisper":"Eso es lo que de verdad [[u]]sale caro.[[/u]]",
+     "stains":st('rosa','tr','bl'),"doodles":[d('calendario',TR,180,8,dy=5),d('bolsa-super',BL,190,-6)]},
+    {"type":"statement","title":"Tu cuerpo no necesita <span class=\"mark\">que lo limpies.</span>","size":80,
+     "whisper":"Entonces lo que necesita es que alguien lo revise contigo, [[u]]sin venderte el siguiente frasco.[[/u]]",
+     "stains":st('menta','tl','br'),"doodles":[d('corazon',TR,160,8,dy=10),d('hojita',BL,170,-8)]},
     cta("Compártelo","Mándaselo a quien tenga la alacena llena de tés detox.","Sin juzgar, [[u]]eh.[[/u]]",
         [d('celular',(90,790),150,-10),d('corazones-mini',(320,760),160,-6),d('sandia',TR,190,-8)], first='rosa'),
   ],
@@ -140,7 +146,9 @@ P.append(dict(n=5, slug="p05-el-detox-mas-caro", title="El detox más caro", pil
 
 Tés, malteadas, gomitas, pastillas “desinflamatorias”. Si ninguno funcionó, no es que no hayas encontrado el bueno. Es que ninguno empezó por entender tu cuerpo: tu tiroides, tu insulina, cómo comes un martes real.
 
-Antes de gastar en el siguiente, revisa lo que de verdad está pasando.
+Y cada mes es lo mismo: un producto nuevo, la misma inflamación y un poquito menos de confianza en ti. Eso es lo que de verdad sale caro.
+
+Tu cuerpo no necesita que lo limpies. Necesita que alguien lo revise contigo, sin venderte el siguiente frasco.
 
 Mándaselo a quien tenga la alacena llena de tés detox. Sin juzgar, eh 💌
 

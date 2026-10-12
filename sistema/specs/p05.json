@@ -99,6 +99,70 @@
    ]
   },
   {
+   "type": "statement",
+   "title": "Y cada mes: un producto nuevo, la misma inflamación y un poquito menos de confianza en ti.",
+   "size": 70,
+   "whisper": "Eso es lo que de verdad [[u]]sale caro.[[/u]]",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "calendario",
+     790,
+     100,
+     180,
+     8
+    ],
+    [
+     "bolsa-super",
+     90,
+     1000,
+     190,
+     -6
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "Tu cuerpo no necesita <span class=\"mark\">que lo limpies.</span>",
+   "size": 80,
+   "whisper": "Entonces lo que necesita es que alguien lo revise contigo, [[u]]sin venderte el siguiente frasco.[[/u]]",
+   "stains": [
+    [
+     "menta",
+     "tl"
+    ],
+    [
+     "rosa",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "corazon",
+     790,
+     105,
+     160,
+     8
+    ],
+    [
+     "hojita",
+     90,
+     1000,
+     170,
+     -8
+    ]
+   ]
+  },
+  {
    "type": "cta",
    "kicker": "Compártelo",
    "title": "Mándaselo a quien tenga la alacena llena de tés detox.",
