@@ -130,7 +130,7 @@ P.append(dict(n=5, slug="p05-el-detox-mas-caro", title="El detox más caro", pil
     {"type":"statement","title":"Tés, malteadas, gomitas, pastillas “desinflamatorias”.","size":76,
      "whisper":"Entonces, si ninguno funcionó, no es que no hayas [[u]]encontrado el bueno.[[/u]]",
      "stains":st('rosa','tl','br'),"doodles":[d('tache',TR,160,8,dy=10),d('gotas',BL,180,-6)]},
-    {"type":"statement","title":"Es que ninguno empezó por preguntarte <span class=\"mark\">qué trae tu cuerpo.</span>","size":78,
+    {"type":"statement","title":"Es que ninguno empezó por <span class=\"mark\">entender tu cuerpo.</span>","size":78,
      "whisper":"Tu tiroides, tu insulina, cómo comes un martes real.",
      "stains":st('menta','tl','br'),"doodles":[d('estetoscopio',TR,200,8),d('plato',BL,180,-8)]},
     cta("Compártelo","Mándaselo a quien tenga la alacena llena de tés detox.","Sin juzgar, [[u]]eh.[[/u]]",
@@ -138,7 +138,7 @@ P.append(dict(n=5, slug="p05-el-detox-mas-caro", title="El detox más caro", pil
   ],
   caption="""El detox más caro es el que compras cada mes porque el anterior no funcionó.
 
-Tés, malteadas, gomitas, pastillas “desinflamatorias”. Si ninguno funcionó, no es que no hayas encontrado el bueno. Es que ninguno empezó por preguntarte qué trae tu cuerpo: tu tiroides, tu insulina, cómo comes un martes real.
+Tés, malteadas, gomitas, pastillas “desinflamatorias”. Si ninguno funcionó, no es que no hayas encontrado el bueno. Es que ninguno empezó por entender tu cuerpo: tu tiroides, tu insulina, cómo comes un martes real.
 
 Antes de gastar en el siguiente, revisa lo que de verdad está pasando.
 
