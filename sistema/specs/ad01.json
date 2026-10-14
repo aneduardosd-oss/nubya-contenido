@@ -1,0 +1,268 @@
+{
+ "slug": "ad01-consulta-online",
+ "handle": "@nutritionbyannie",
+ "cards": [
+  {
+   "type": "hook",
+   "title": "[[x]]Keto.[[/x]] [[x]]Ayuno.[[/x]]<br>[[x]]Detox.[[/x]]<br><span class=\"mark rosa\">Y nada.</span>",
+   "whisper": "No te falta fuerza de voluntad. Te sobran [[u]]dietas que no eran para ti.[[/u]]",
+   "swipe": "desliza →",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "nube-pensamiento",
+     770,
+     84,
+     280,
+     8
+    ],
+    [
+     "sandia-mordida",
+     46,
+     973,
+     252,
+     -10
+    ],
+    [
+     "flecha-rizo",
+     520,
+     1010,
+     210,
+     12
+    ]
+   ],
+   "inner_style": "padding-right:80px"
+  },
+  {
+   "type": "list",
+   "title": "¿Te pasa esto?",
+   "body": "Es lo que más escucho en consulta:",
+   "label": "Lo que me cuentan",
+   "items": [
+    "“Bajo y vuelvo a subir”",
+    "“Me gana el hambre”",
+    "“El lunes empiezo otra vez”"
+   ],
+   "paren": "(y cada intento cansa más que el anterior)",
+   "panel": "",
+   "washi": "",
+   "stains": [
+    [
+     "menta",
+     "tl"
+    ],
+    [
+     "rosa",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "reloj",
+     784,
+     65,
+     266,
+     8
+    ],
+    [
+     "cubiertos",
+     868,
+     1043,
+     182,
+     10
+    ],
+    [
+     "interrogacion",
+     90,
+     1010,
+     200,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "statement",
+   "title": "El problema no eres tú.<br><span class=\"mark\">Nadie revisó tu cuerpo.</span>",
+   "whisper": "Te dieron una dieta sin conocerte.",
+   "paren": "Y no hay que espantarnos: tu cuerpo no está mal, solo necesita [[u]]un plan hecho para ti.[[/u]]",
+   "stains": [
+    [
+     "rosa",
+     "tl"
+    ],
+    [
+     "menta",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "lentes",
+     756,
+     82,
+     294,
+     8
+    ],
+    [
+     "corazon",
+     70,
+     1015,
+     210,
+     -10
+    ],
+    [
+     "hojita",
+     812,
+     987,
+     238,
+     12
+    ],
+    [
+     "manzana",
+     500,
+     1080,
+     150,
+     -6
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "En consulta vamos al revés",
+   "body": "Por eso primero te conozco y después armamos tu plan:",
+   "label": "Paso a paso",
+   "items": [
+    "Conocer tu historia y rutina",
+    "Ver qué frena tus resultados",
+    "Armar tu plan de la semana"
+   ],
+   "paren": "(sin menús de internet ni prohibiciones raras)",
+   "panel": "salvia",
+   "washi": "mint",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "portapapeles",
+     798,
+     46,
+     252,
+     8
+    ],
+    [
+     "plato",
+     812,
+     987,
+     238,
+     -6
+    ]
+   ]
+  },
+  {
+   "type": "offer",
+   "intro": "<b>¡Hola! Yo soy Annie,</b><br>maestra en nutrición clínica.",
+   "creds": "",
+   "title": "En una hora <span class=\"mark rosa\">dejas de adivinar.</span>",
+   "label": "Sales de la consulta con",
+   "items": [
+    "Qué está frenando tus resultados",
+    "Tu plan alimenticio, hecho para ti",
+    "Tu plan de acción, paso a paso"
+   ],
+   "washi": "",
+   "price": "$700<small>+ IVA</small>",
+   "meta": "Consulta online<br>1 hora, desde tu casa",
+   "closer": "Lo caro es [[u]]seguir repitiendo dietas.[[/u]]",
+   "stains": [
+    [
+     "menta",
+     "tl"
+    ],
+    [
+     "rosa",
+     "br"
+    ]
+   ],
+   "doodles": [
+    [
+     "estetoscopio",
+     812,
+     58,
+     238,
+     6
+    ],
+    [
+     "destellos",
+     870,
+     1057,
+     168,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "Agenda esta semana",
+   "title": "Escríbeme <span class=\"mark\">“PLAN”</span> por mensaje",
+   "whisper": "Te cuento cómo funciona la consulta y qué horarios [[u]]tengo libres.[[/u]]",
+   "inner_style": "justify-content:flex-start;padding-top:230px;padding-right:110px",
+   "stains": [
+    [
+     "rosa",
+     "tr"
+    ],
+    [
+     "menta",
+     "bl"
+    ]
+   ],
+   "doodles": [
+    [
+     "celular",
+     100,
+     860,
+     210,
+     -10
+    ],
+    [
+     "corazones-mini",
+     310,
+     880,
+     210,
+     -6
+    ],
+    [
+     "sandia",
+     798,
+     66,
+     252,
+     -8
+    ],
+    [
+     "calendario",
+     728,
+     903,
+     322,
+     6
+    ]
+   ]
+  }
+ ]
+}
