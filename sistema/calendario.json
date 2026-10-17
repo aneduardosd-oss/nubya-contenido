@@ -112,5 +112,12 @@
   "title": "Domingo chef, jueves pizza (Reel v3, reemplaza R02)",
   "at": "2026-10-21T14:00:00-06:00",
   "status": "scheduled"
+ },
+ {
+  "n": "R04",
+  "slug": "r04-acabate-todo",
+  "title": "Acábate todo vs. ¿otra vez a dieta? (Reel)",
+  "at": "2026-10-23T13:30:00-06:00",
+  "status": "scheduled"
  }
 ]
