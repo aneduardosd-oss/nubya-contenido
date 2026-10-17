@@ -107,6 +107,13 @@
   "status": "pending_approval"
  },
  {
+  "n": "R05",
+  "slug": "r05-lunch-que-no-llena",
+  "title": "El lunch que no llena (Reel)",
+  "at": "2026-10-26T13:30:00-06:00",
+  "status": "in_production"
+ },
+ {
   "n": 9,
   "slug": "p09-lo-que-nadie-te-ha-revisado",
   "title": "Lo que nadie te ha revisado",
@@ -119,5 +126,26 @@
   "title": "Lo caro no es la consulta",
   "at": "2026-10-29T20:30:00-06:00",
   "status": "pending_approval"
+ },
+ {
+  "n": "R06",
+  "slug": "r06-pan-de-muerto",
+  "title": "Pan de muerto sin culpa (Reel)",
+  "at": "2026-10-30T13:30:00-06:00",
+  "status": "planned"
+ },
+ {
+  "n": "R07",
+  "slug": "r07-operada-y-perdida",
+  "title": "Operada y perdida (Reel)",
+  "at": "2026-11-04T20:30:00-06:00",
+  "status": "planned"
+ },
+ {
+  "n": "R08",
+  "slug": "r08-la-cuenta",
+  "title": "La cuenta (Reel)",
+  "at": "2026-11-13T20:30:00-06:00",
+  "status": "planned"
  }
 ]
