@@ -6,13 +6,13 @@
  "pillar": "Atracción",
  "arc": "D",
  "cta_type": "Comentar",
- "publish_at_local": "2026-10-23T13:30:00-06:00",
- "publish_at_utc": "2026-10-23T19:30:00Z",
- "folder": "posts/2026-10-23-r04",
+ "publish_at_local": "2026-10-18T13:30:00-06:00",
+ "publish_at_utc": "2026-10-18T19:30:00Z",
+ "folder": "posts/2026-10-18-r04",
  "status": "scheduled",
  "caption": "Antes te decían «¡acábate todo!»… y hoy te dicen «¿otra vez a dieta?» 🙃\n\nCreciste en una mesa donde dejar comida era una grosería y la tía te servía doble porque estabas creciendo. Y ahora esa misma mesa te revisa el plato cada domingo y opina. ¿Resultado? Terminas comiendo de más, nada más para que dejen de opinar.\n\nNadie lo hace con mala intención: así nos enseñaron a todos. Pero tu plato no se negocia en la sobremesa, tu plato se decide contigo 💚\n\nCuéntame en los comentarios: ¿cuál de las dos frases te tocaba escuchar más a ti, la 1 o la 2? Te leo 👇\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #relacionconlacomida #comidafamiliar #alimentacionsaludable #nutricionmexico",
- "video_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-23-r04/r04-acabate-todo.mp4",
- "cover_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-23-r04/r04-acabate-todo-cover.jpg",
+ "video_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-18-r04/r04-acabate-todo.mp4",
+ "cover_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-18-r04/r04-acabate-todo-cover.jpg",
  "share_to_feed": true,
- "notes": "Motor v5.4 (v4 aprobada por el usuario el 17 oct 2026): texto a tiempo con la voz, tarjetas con motion graphics, fondos alternados, efectos nivelados bajo la voz. Portada = cuadro del gancho completo (5 s) centrado para el recorte 3:4 del feed. Movido del sábado 24 al viernes 23 por la regla de no publicar en sábado."
+ "notes": "Motor v5.4 (v4 aprobada por el usuario el 17 oct 2026): texto a tiempo con la voz, tarjetas con motion graphics, fondos alternados, efectos nivelados bajo la voz. Portada = cuadro del gancho completo (5 s) centrado para el recorte 3:4 del feed. Adelantado al domingo 18 (17 oct) para romper el silencio del 15 al 19; nunca en sábado."
 }
