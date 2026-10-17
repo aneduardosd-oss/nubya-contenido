@@ -1,0 +1,22 @@
+{
+ "piece": "R02v3",
+ "slug": "r02-domingo-chef-v3",
+ "title": "Domingo chef, jueves pizza (v3, reemplazo)",
+ "type": "REELS",
+ "pillar": "Atracción",
+ "arc": "D",
+ "cta_type": "Compartir",
+ "publish_at_local": "2026-10-21T14:00:00-06:00",
+ "publish_at_utc": "2026-10-21T20:00:00Z",
+ "folder": "posts/2026-10-21-r02v3",
+ "status": "scheduled",
+ "replaces": {
+  "media_id": "18073660052491092",
+  "permalink": "https://www.instagram.com/reel/DefMfaZgpNT/"
+ },
+ "caption": "El domingo eres chef… y el jueves ya estás pidiendo pizza 🍕\n\nCinco tuppers iguales de pollo con brócoli. El martes ya no se te antoja, el miércoles se queda en la oficina y el jueves abres el refri y… otra vez no.\n\nNo estás haciendo nada mal: el problema era el menú. Cocina bases (pollo, arroz, verdura) y combínalas distinto cada día: un día tacos, otro un bowl, otro un caldito. Así el jueves todavía tienes ganas de comer lo que cocinaste.\n\nMándale este video a tu amiga la de los tuppers, para que este domingo cocinen diferente (y se pasen ideas entre las dos) 💚\n\nNutrición clínica · CDMX y online\n\n#nutriologacdmx #mealprep #comidadelasemana #alimentacionsaludable #nutricionmexico",
+ "video_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-21-r02v3/r02-domingo-chef-v3.mp4",
+ "cover_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-21-r02v3/r02-domingo-chef-v3-cover.jpg",
+ "share_to_feed": true,
+ "notes": "Versión corregida (zona segura + composición), render del 16 oct 2026. Reemplaza al R02 publicado el 14 oct: el usuario borra el viejo desde la app (la API no permite borrar). Solo se publica si el viejo ya no existe. Portada = cuadro del segundo 5.4."
+}

@@ -98,5 +98,19 @@
   "status": "published",
   "media_id": "18073660052491092",
   "permalink": "https://www.instagram.com/reel/DefMfaZgpNT/"
+ },
+ {
+  "n": "R03",
+  "slug": "r03-paciente-perdon",
+  "title": "El paciente que pidió perdón (Reel)",
+  "at": "2026-10-19T20:30:00-06:00",
+  "status": "scheduled"
+ },
+ {
+  "n": "R02v3",
+  "slug": "r02-domingo-chef-v3",
+  "title": "Domingo chef, jueves pizza (Reel v3, reemplaza R02)",
+  "at": "2026-10-21T14:00:00-06:00",
+  "status": "scheduled"
  }
 ]
