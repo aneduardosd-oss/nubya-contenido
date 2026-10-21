@@ -60,9 +60,10 @@
   "slug": "r02-domingo-chef",
   "title": "Domingo chef, jueves pizza (Reel)",
   "at": "2026-10-14T14:00:00-06:00",
-  "status": "published",
+  "status": "replaced",
   "media_id": "18073660052491092",
-  "permalink": "https://www.instagram.com/reel/DefMfaZgpNT/"
+  "permalink": "https://www.instagram.com/reel/DefMfaZgpNT/",
+  "replaced_by": "R02v3"
  },
  {
   "n": "R04",
@@ -95,7 +96,10 @@
   "slug": "r02-domingo-chef-v3",
   "title": "Domingo chef, jueves pizza (Reel v3, reemplaza R02)",
   "at": "2026-10-21T14:00:00-06:00",
-  "status": "scheduled"
+  "status": "published",
+  "media_id": "18116969360093801",
+  "permalink": "https://www.instagram.com/reel/DexOHp8EdUd/",
+  "published_at_utc": "2026-10-21T20:03:05Z"
  },
  {
   "n": 8,

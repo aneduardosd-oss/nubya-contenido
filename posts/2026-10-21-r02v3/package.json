@@ -9,7 +9,7 @@
  "publish_at_local": "2026-10-21T14:00:00-06:00",
  "publish_at_utc": "2026-10-21T20:00:00Z",
  "folder": "posts/2026-10-21-r02v3",
- "status": "scheduled",
+ "status": "published",
  "replaces": {
   "media_id": "18073660052491092",
   "permalink": "https://www.instagram.com/reel/DefMfaZgpNT/"
@@ -18,5 +18,9 @@
  "video_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-21-r02v3/r02-domingo-chef-v3.mp4",
  "cover_url": "https://raw.githubusercontent.com/aneduardosd-oss/nubya-contenido/main/posts/2026-10-21-r02v3/r02-domingo-chef-v3-cover.jpg",
  "share_to_feed": true,
- "notes": "Versión corregida (zona segura + composición), render del 16 oct 2026. Reemplaza al R02 publicado el 14 oct: el usuario borra el viejo desde la app (la API no permite borrar). Solo se publica si el viejo ya no existe. Portada = cuadro del segundo 5.4."
+ "notes": "Versión corregida (zona segura + composición), render del 16 oct 2026. Reemplaza al R02 publicado el 14 oct: el usuario borra el viejo desde la app (la API no permite borrar). Solo se publica si el viejo ya no existe. Portada = cuadro del segundo 5.4.",
+ "media_id": "18116969360093801",
+ "permalink": "https://www.instagram.com/reel/DexOHp8EdUd/",
+ "published_at_utc": "2026-10-21T20:03:05Z",
+ "container_id": "18127119845300971"
 }
